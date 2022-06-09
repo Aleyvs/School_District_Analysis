@@ -17,6 +17,9 @@ The tables presented will include the following:
 
 The district summary percentages of Passing Math, Passing Reading, and Overall Passing were reduced by less than 1% on average. In my opinion (not expert on school district budgets) it doesn't seem to be that big a difference. 
 
+![District Summary_Module](Resources/District_Summary_Module.png)
+
+![District Summary_Challenge](Resources/District_Summary_Challenge.png)
 
 - How is the school summary affected?
 
