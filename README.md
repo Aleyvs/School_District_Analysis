@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-# Overview - School District Analysis
+## Overview - School District Analysis
 
 The purpose of this analysis is to clean the data used during the module. The board has notified that there is evidence of academic dishonesty in the reading and math grades for Thomas High School ninth graders. We will mark these grades as NaN and create a high-level snapshot of the district's key metrics, compare with the results from the module, and present them in a table format. 
 The tables presented will include the following:
@@ -11,7 +11,7 @@ The tables presented will include the following:
 - School performance based on the school size 
 - School performance based on the type of school
 
-# Results
+## Results
 
 - How is the district summary affected?
 
@@ -31,7 +31,7 @@ The school summary shows more of a difference but only on the school that had th
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-in comparison to other schools, it shows a big difference in the percentages of passing students. This might affect the amount of budget the school gets assigned once the board notices the low averages.
+In comparison to other schools, it shows a big difference in the percentages of passing students. This might affect the amount of budget the school gets assigned once the board notices the low averages.
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
@@ -46,7 +46,7 @@ in comparison to other schools, it shows a big difference in the percentages of 
     - Scores by school type
     The results are so similar that only when we have the table without the format we can see and difference in the numbers. Data shows that charter schools do better than District schools by a significant margin.
 
-# Summary
+## Summary
 
 To summarize the difference that changing the 9th graders with NaN values for Thomas High School can be better appreciated in the School Summary DataFrame. 
 - Average Reading and Math scores are reduced but not significantly, this happens because NaN will not be counted in the average and the Average changes but not the same if the NaNs were counted as zero.
