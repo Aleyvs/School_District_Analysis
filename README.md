@@ -17,17 +17,14 @@ The tables presented will include the following:
 
 The district summary percentages of Passing Math, Passing Reading, and Overall Passing were reduced by less than 1% on average. In my opinion (not expert on school district budgets) it doesn't seem to be that big a difference. 
 
-![Per_School_Module](Resources/Per_School_Module.png)
-
-![Per_School_Challenge](Resources/Per_School_Challenge.png)
 
 - How is the school summary affected?
 
 The school summary shows more of a difference but only on the school that had the altered grades (Thomas High School). Again, averages don't show that big of a difference but percentages show a reduction of close to 30% in all three categories.
 
-picture of module
+![Per_School_Module](Resources/Per_School_Module.png)
 
-picture of challenge
+![Per_School_Challenge](Resources/Per_School_Challenge.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
